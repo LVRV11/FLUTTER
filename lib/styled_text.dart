@@ -9,7 +9,7 @@ class StyledText extends StatelessWidget {
       'Hello world!',
       style: TextStyle(
         color: Color.fromARGB(255, 124, 244, 188),
-        fontSize: 28,
+        fontSize: 30,
       ),
     );
   }
